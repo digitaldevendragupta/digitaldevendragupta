@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate Business Consultant from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0zSDAI4vzA-_5dztZUk-uq&ust=1724306354251000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCKqYS0hYgDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBvqXq_F3zy2AmjeK7WIGGwP3c0liOXy5j9Y9HAPEoROZXM8GvEDismpzvQA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitaldevendragupta&label=Profile%20views&color=0e75b6&style=flat" alt="digitaldevendragupta" /> </p>
 
