@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/premium-vector/consulting-concept-with-big-words-people-surrounded-by-related-icon-with-blue-color-style_25156-1434.jpg?w=996)]
 
 <h1 align="center">Hi 👋, I'm Devendra</h1>
 <h3 align="center">A passionate Business Consultant from India</h3>
